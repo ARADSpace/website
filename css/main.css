@@ -214,6 +214,14 @@ header .social li:first-child{
 	word-break: break-word;
 }
 
+.hero .caption h2{
+	color: #FFF;
+	font-family: "open_bold", Helvetica, Arial, sans-serif;
+	font-size: 34px;
+	font-weight: bold;
+	word-break: break-word;
+}
+
 .hero .caption p{
 	color: #FFF;
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
